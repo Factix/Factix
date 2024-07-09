@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Factix
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning about database
+- 🌱 I’m currently learning about database, ML, webdev & cloud SaaS
 - 📫 How to reach me email me at factixgaming123@gmail.com
 
 <!---
