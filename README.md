@@ -38,7 +38,9 @@ When I step away from the server racks and code editors, you can usually find me
 ## 📫 Let's Connect
 
 <p align="left">
-<a href="mailto:factixgaming123@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/default-email.svg" alt="Email" height="30" width="40" /></a>
+<a href="mailto:factixgaming123@gmail.com" target="_blank">
+  <img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="35" width="35" />
+</a>
 <!--<a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>-->
 </p>
 
