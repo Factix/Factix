@@ -1,4 +1,4 @@
-# Hi there, I'm Factix or known as Styx-d<
+# Hi there, I'm Factix or known as Styx dY`<
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=2563EB&center=false&vCenter=true&width=500&lines=IT+Professional;Full+Stack+Developer;Systems+Administrator;Tech+Enthusiast)](https://git.io/typing-svg)
 
@@ -108,7 +108,7 @@ When I step away from the server racks and code editors, you can usually find me
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Factix&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Factix&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Factix&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
