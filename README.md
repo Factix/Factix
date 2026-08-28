@@ -104,8 +104,8 @@ When I step away from the server racks and code editors, you can usually find me
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Factix&show_icons=true&theme=radical" alt="Factix's GitHub stats" />
-  <img src="languages.svg" alt="My Languages" />
+  <img src="github-stats.svg" alt="GitHub Stats" />
+  <img src="languages.svg?v=2" alt="My Languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Factix&theme=radical" alt="GitHub Streak" />
