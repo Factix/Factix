@@ -104,9 +104,7 @@ When I step away from the server racks and code editors, you can usually find me
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Factix&theme=radical" alt="Factix's GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Factix&theme=radical" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Factix&theme=radical" alt="Top Languages" />
+  <img src="languages.svg" alt="My Languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Factix&theme=radical" alt="GitHub Streak" />
