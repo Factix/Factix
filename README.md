@@ -104,6 +104,7 @@ When I step away from the server racks and code editors, you can usually find me
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="github-stats.svg" alt="GitHub Stats" />
   <img src="languages.svg" alt="My Languages" />
 </p>
 <p align="center">
