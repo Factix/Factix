@@ -1,4 +1,4 @@
-# Hi there, I'm Factix or known as Styx dY`<
+# Hi there, I'm Factix or known as Styx-d<
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=2563EB&center=false&vCenter=true&width=500&lines=IT+Professional;Full+Stack+Developer;Systems+Administrator;Tech+Enthusiast)](https://git.io/typing-svg)
 
